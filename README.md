@@ -2,7 +2,7 @@
 
 ## Vershons
 
-[v0.5](https://makecode.com/_YLERdwJWATRa)
+[v0.5](https://makecode.com/_Mrx3HkeH3J6e)
 
 * Bugs fixed
 * One new map for Dodge Ball.
