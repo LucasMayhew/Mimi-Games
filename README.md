@@ -2,6 +2,11 @@
 
 ## Vershons
 
+[v0.5](https://makecode.com/_YLERdwJWATRa)
+
+* Bugs fixed
+* One new map for Dodge Ball.
+
 [v0.4](https://makecode.com/_evjdP6hF14X8)
 * New mini game Block Party
 * 4 new npc costumes
