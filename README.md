@@ -1,6 +1,9 @@
 # Mimi Games
-
+d
 ## Vershons
+
+[v0.6](https://makecode.com/_LsCbmgHUj7bV)
+* Bugs fixed
 
 [v0.5](https://makecode.com/_iPEFo6JtUhJj)
 
